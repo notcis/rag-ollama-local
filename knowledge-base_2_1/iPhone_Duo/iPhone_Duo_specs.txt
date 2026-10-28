@@ -1,0 +1,503 @@
+iPhone Duo
+Finish
+Night Sky, Star White
+
+Titanium foldable design
+Ceramic Shield 2 front
+Ceramic Shield back
+
+Capacity1
+256GB
+512GB
+1TB
+2TB
+Size and Weight2
+Width:
+6.48 inches
+(164.6 mm)
+
+Height:
+4.64 inches
+(117.8 mm)
+
+Depth:
+0.21 inch
+(5.2 mm)
+
+Open
+Weight: 8.96 ounces (254 grams)
+Width:
+3.31 inches
+(84.1 mm)
+
+Height:
+4.64 inches
+(117.8 mm)
+
+Depth:
+0.44 inch
+(11.3 mm)
+
+Closed
+Displays
+Inner display
+Super Retina XDR display
+7.6‑inch (diagonal) all‑screen OLED folding display
+1878‑by‑2670-pixel resolution at 430 ppi
+Nano‑texture finish
+Wide‑angle OLEDs
+Outer display
+Super Retina XDR display
+5.4‑inch (diagonal) all‑screen OLED display
+1398‑by‑2034-pixel resolution at 460 ppi
+Both displays
+Dynamic Island
+Always-On display
+ProMotion technology with adaptive refresh rates up to 120Hz
+HDR display
+True Tone
+Wide color (P3)
+Haptic Touch
+2,000,000:1 contrast ratio (typical)
+1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 3000 nits peak brightness (outdoor); 1 nit minimum brightness
+Fingerprint‑resistant oleophobic coating
+Anti‑reflective coating
+Support for display of multiple languages and characters simultaneously
+Supports Apple Pencil (USB-C)3
+The iPhone Duo displays have rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screens are 7.58 and 5.36 inches diagonally (actual viewable area is less).
+
+Splash, Water, and Dust Resistant4
+Rated IP68 (maximum depth of 6 meters up to 30 minutes) under IEC standard 60529
+
+Apple Intelligence and Siri AI
+The next generation of Apple Intelligence is centered around you, integrated into your apps, and built with privacy. Apple Intelligence powers Siri AI — an entirely new version of Siri that’s more personal, conversational, and powerful, along with helpful features across apps.5
+
+Learn more
+
+Chip
+A20 Pro chip
+6‑core CPU with 2 super cores and 4 efficiency cores
+7‑core GPU with Neural Accelerators
+Dual 16‑core Neural Engine
+Hardware‑accelerated ray tracing
+Camera
+48MP Dual Fusion camera system
+48MP Fusion Main: 26 mm, ƒ/1.6 aperture, sensor‑shift optical image stabilization, Hybrid Focus Pixels, super‑high‑resolution photos (24MP and 48MP)
+Also enables 12MP optical-quality 2x Telephoto: 52 mm, ƒ/1.6 aperture, sensor‑shift optical image stabilization, Hybrid Focus Pixels
+48MP Fusion Ultra Wide: 13 mm, ƒ/2.2 aperture and 120° field of view, Hybrid Focus Pixels, super‑high‑resolution photos (24MP and 48MP)
+2x optical‑quality zoom in, 2x optical zoom out; 4x optical‑quality zoom range
+Digital zoom up to 10x
+Smart Take
+Duo Preview
+Kid Cue
+Photographic Styles 3
+Smart focus tracking
+Customizable default lens (Fusion Main)
+Sapphire crystal lens cover
+True Tone flash
+Photonic Engine
+Deep Fusion
+Smart HDR 5
+Next-generation portraits with Focus and Depth Control
+Portrait Lighting with six effects
+Night mode
+Panorama (up to 63MP)
+48MP macro photography
+Wide color capture for photos and Live Photos
+Lens correction (Fusion Ultra Wide)
+Advanced red-eye correction
+Auto image stabilization
+Burst mode
+Photo geotagging
+Image formats captured: HEIF and JPEG
+Video Recording
+4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion Main), or 120 fps (Fusion Main)
+1080p Dolby Vision video recording at 25 fps, 30 fps, 60 fps, or 120 fps (Fusion Main)
+720p Dolby Vision video recording at 30 fps
+Cinematic mode up to 4K Dolby Vision at 60 fps
+Cinematic mode effects from video (Fusion Main)
+Duo Preview
+Smart focus tracking
+Improved low‑light video at 1080p
+Action mode up to 2.8K Dolby Vision at 60 fps
+Macro video recording, including slo‑mo and time‑lapse
+Slo‑mo video support for 1080p up to 240 fps and 4K Dolby Vision up to 120 fps (Fusion Main)
+Dual Capture up to 4K Dolby Vision at 30 fps
+Time‑lapse video with stabilization up to 4K Dolby Vision
+Night mode Time‑lapse
+QuickTake video up to 4K Dolby Vision at 60 fps
+Sensor‑shift optical image stabilization for video (Fusion Main)
+Digital zoom up to 6x
+Audio zoom
+True Tone flash
+Cinematic video stabilization (4K, 1080p, and 720p)
+Continuous autofocus video
+Take 8MP still photos while recording 4K video
+Playback zoom
+Video formats recorded: HEVC and H.264
+Spatial Audio and stereo recording
+Wind noise reduction
+Audio Mix
+Front Camera
+Outer
+
+12MP Center Stage camera
+
+ƒ/2.2 aperture
+
+Retina Flash
+
+Smart Take
+
+Photographic Styles 3
+
+Improved low‑light video at 1080p
+
+Tap to zoom and rotate
+
+Center Stage for photos
+
+Ultra‑stabilized video
+
+Dual Capture
+
+Center Stage for video calls
+
+Photonic Engine
+
+Deep Fusion
+
+Smart HDR 5
+
+Next‑generation portraits with Focus and Depth Control
+
+Portrait Lighting with six effects
+
+Animoji and Memoji in FaceTime
+
+Night mode
+
+Wide color capture for photos and Live Photos
+
+Lens correction
+
+Auto image stabilization
+
+Burst mode
+
+4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, or 60 fps
+
+1080p Dolby Vision video recording at 25 fps, 30 fps, or 60 fps
+
+Cinematic mode up to 4K Dolby Vision at 30 fps
+
+Cinematic mode effects from video (Fusion Main)
+
+Slo‑mo video support for 1080p at 120 fps
+
+Time‑lapse video with stabilization up to 4K Dolby Vision
+
+Night mode Time‑lapse
+
+QuickTake video up to 4K at 60 fps in Dolby Vision
+
+Cinematic video stabilization (4K, 1080p, and 720p)
+
+Spatial Audio and stereo recording
+
+Wind noise reduction
+
+Audio Mix
+
+
+Inner
+
+Under-display FaceTime camera
+
+Edge Light for video calls6
+
+Center Stage for video calls
+
+ƒ/1.8 aperture
+
+Tap to zoom and rotate
+
+Ultra‑stabilized video
+
+1080p video recording at 30 or 60 fps
+
+Animoji and Memoji in FaceTime
+
+Wide color capture for photos and Live Photos
+
+Lens correction
+
+Auto image stabilization
+
+QuickTake video at 1080p at 30 fps and 60 fps
+
+Spatial Audio and stereo recording
+
+Wind noise reduction
+
+Audio Mix
+
+Power and Battery7
+Typical use
+Up to 24 hours
+
+Video playback
+Up to 44 hours when using the outer display8
+Up to 31 hours when using the inner display8
+
+Video playback (streamed)
+Up to 37 hours when using the outer display8
+Up to 26 hours when using the inner display8
+
+Dual built-in rechargeable lithium‑ion batteries
+
+Fast-charge capable:
+Up to 50% charge in around 20 minutes9 with 60W-capable adapter or higher (available separately) paired with USB-C charging cable
+Up to 50% charge in around 30 minutes9 with 35W adapter or higher paired with MagSafe Charger (both available separately)
+
+Touch ID
+Fingerprint sensor built into the side button
+
+Peace of Mind
+Emergency SOS via satellite10
+Crash Detection11
+Roadside Assistance via satellite10
+Messages via satellite10
+Find My via satellite10
+Cellular and Wireless
+Model A3447**
+FDD-5G NR (Bands n1, n2, n3, n5, n7, n8, n12, n14, n20, n25, n26, n28, n29, n30, n66, n70, n71, n75)
+TDD-5G NR (Bands n38, n40, n41, n48, n53, n77, n78, n79)
+5G NR mmWave (Bands n258, n260, n261)
+FDD-LTE (Bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 66, 71, 106)
+TDD-LTE (Bands 34, 38, 39, 40, 41, 42, 48, 53)
+UMTS/HSPA+ (850, 900, 1700/2100, 1900, 2100 MHz)
+GSM/EDGE (850, 900, 1800, 1900 MHz)
+Apple C2 cellular modem
+5G (sub-6 GHz and mmWave) with 4x4 MIMO12
+Gigabit LTE with 4x4 MIMO12
+
+Apple N1 wireless networking chip
+Wi‑Fi 7 (802.11be) with 2x2 MIMO13
+Bluetooth 6
+Thread networking technology
+
+Apple second-generation Ultra Wideband chip14
+
+NFC with reader mode
+Express Cards with power reserve
+Location
+Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS, BeiDou, and NavIC)
+Digital compass
+Wi-Fi
+Cellular
+iBeacon microlocation
+External Buttons and Connectors
+
+Volume up/down
+
+Volume up/down
+
+Camera Control
+
+Built‑in stereo speaker Built‑in microphone
+
+Built‑in stereo speaker
+
+Built‑in stereo speaker
+
+Built‑in microphones
+
+USB-C connector
+
+Side button
+
+Camera controls
+Exposure, Depth, Zoom, Cameras, Styles, Tone
+
+Charging and Expansion
+USB-C connector with support for:
+Charging
+DisplayPort
+USB 3 (up to 10Gb/s)15
+MagSafe and Wireless Charging
+MagSafe wireless charging up to 25W9
+Qi2 wireless charging up to 25W9
+Magnet array
+Alignment magnet
+Accessory Identification NFC
+Magnetometer
+Sensors
+Touch ID fingerprint sensor
+Barometer
+High dynamic range gyro
+High-g accelerometer
+Proximity sensor
+Four ambient light sensors
+SIM Card
+Dual eSIM (two active eSIMs; stores eight or more eSIMs)16
+iPhone Duo uses advanced eSIM technology for more convenience and security (not compatible with physical SIM cards).
+Learn more about eSIM
+
+Learn more about traveling with eSIM
+
+Apple Pay
+Pay with your iPhone using Touch ID in stores, within apps, and on the web
+Send and receive money in Messages with Apple Cash17
+Complete purchases made with Apple Pay on your Mac
+Pay for your ride using Express Transit18
+Learn more about Apple Pay
+
+Learn more about Apple Cash
+
+Apple Card
+Credit card created by Apple, designed for iPhone
+Get unlimited 3% Daily Cash at Apple and select merchants when you use Apple Pay,19 2% with Apple Pay, and 1% everywhere else
+Use the Wallet app to apply for, manage, and use Apple Card
+Titanium, laser‑etched physical credit card for use where Apple Pay is not accepted yet
+Share with up to five people, 13 years or older, in your Family Sharing group20 to track expenses and manage spending
+Learn more about Apple Card
+
+Video Calling21
+FaceTime video calling over cellular or Wi‑Fi
+FaceTime HD (1080p) video calling over 5G or Wi‑Fi
+Center Stage for video calling
+Duo FaceTime
+SharePlay
+Screen sharing
+Portrait mode in FaceTime video
+Spatial Audio
+Voice Isolation and Wide Spectrum microphone modes
+Zoom with rear‑facing camera
+Audio Calling21
+FaceTime audio
+Voice over LTE (VoLTE)12
+Wi‑Fi calling12
+SharePlay
+Screen sharing
+Spatial Audio
+Voice Isolation and Wide Spectrum microphone modes
+Audio Playback
+Supported formats include AAC, APAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus, and Dolby Atmos
+Spatial Audio playback
+User‑configurable maximum volume limit
+Video Playback
+Supported formats include HEVC, H.264, and AV1
+HDR with Dolby Vision, HDR10+/HDR10, and HLG
+Up to 4K HDR AirPlay for mirroring, photos, and video out to Apple TV (2nd generation or later) or AirPlay‑enabled smart TV
+Video mirroring and video out support: Up to 4K HDR through native DisplayPort output over USB-C or USB-C Digital AV Adapter (model A2119; adapter sold separately)22
+Siri23
+Get help with everyday tasks like sending messages, setting reminders, and more
+Activate hands‑free with only your voice using “Siri” or “Hey Siri,” or use Type to Siri
+Protected by the strongest privacy of any intelligent assistant
+Powered by Apple Intelligence, Siri is more natural and helpful5
+Learn more about Siri
+
+Operating System
+iOS 27
+iOS is the world’s most personal and secure mobile operating system, packed with powerful features and designed to protect your privacy.
+Privacy
+iPhone is built from the ground up to protect your personal information. Every iPhone has secure authentication. Apps need your permission to track your activity across other companies’ apps or websites. Your iMessages and FaceTime video calls are encrypted end-to-end. And much more.
+Learn more about privacy features
+
+Accessibility
+Built-in accessibility features supporting vision, mobility, hearing, speech, and cognitive needs help you get the most out of your iPhone — in the ways that work best for you.
+
+Learn more
+
+Features include:
+Assistive Access
+VoiceOver
+Zoom
+Magnifier
+Voice Control
+Switch Control
+AssistiveTouch
+Eye Tracking
+RTT and TTY support
+Closed Captions
+Live Captions
+Personal Voice
+Live Speech
+Type to Siri
+Vocal Shortcuts
+Spoken Content
+Built-in Apps
+App Store
+Books
+Calculator
+Calendar
+Camera
+Clock
+Compass
+Contacts
+FaceTime
+Files
+Find My
+Fitness
+Freeform
+Games
+GarageBand
+Health
+Home
+iMovie
+iTunes Store
+Journal
+Keynote
+Magnifier
+Mail
+Maps
+Measure
+Messages
+Music
+News
+Notes
+Numbers
+Pages
+Passwords
+Phone
+Photos
+Podcasts
+Preview
+Reminders
+Safari
+Settings
+Shortcuts
+Stocks
+Tips
+Translate
+TV
+Voice Memos
+Wallet
+Watch
+Weather
+For a complete list of Apple apps available on iPhone, see apple.com/apps.
+Rating for Hearing Aids
+Hearing Aid Compatible
+
+System Requirements
+Apple Account (required for some features)
+Internet access24
+Syncing to a Mac or PC requires:
+macOS Catalina 10.15 or later using the Finder
+macOS High Sierra 10.13 through macOS Mojave 10.14.6 using iTunes 12.8 or later
+Windows 10 or later using iTunes 12.12.10 or later (free download from apple.com/itunes/download)
+Environmental Requirements
+Operating ambient temperature: 32° to 95° F (0° to 35° C)
+Nonoperating temperature: −4° to 113° F (−20° to 45° C)
+Relative humidity: 5% to 95% noncondensing
+Operating altitude: tested up to 10,000 feet (3000 m)
+Languages
+Language support
+English (Australia, UK, U.S.), Chinese (Simplified, Traditional, Traditional – Hong Kong), French (Canada, France), German, Italian, Japanese, Korean, Spanish (Latin America, Spain), Arabic, Bulgarian, Catalan, Croatian, Czech, Danish, Dutch, Finnish, Greek, Hebrew, Hindi, Hungarian, Indonesian, Kazakh, Malay, Norwegian, Polish, Portuguese (Brazil, Portugal), Romanian, Russian, Slovak, Swedish, Thai, Turkish, Ukrainian, Vietnamese
+
+Learn more about feature availability
+
+In the Box
+iPhone with iOS 27
+USB‑C Charge Cable (1 m)
